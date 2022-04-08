@@ -5,10 +5,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Minervino&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   <div style="display: inline_block"><br>
-
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" 
+       
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" 
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101593387/161313508-55bf5a61-0b62-4263-b8e2-9e14e3c17205.gif">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101593387/161313508-55bf5a61-0b62-4263-b8e2-9e14e3c17205.gif">
 </div>
   
   ##
